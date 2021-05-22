@@ -1,0 +1,1 @@
+Gói ứng dụng Android là định dạng tập tin đóng gói sử dụng bởi hệ điều hành Android khi phân phối và cài đặt ứng dụng di động và middleware. Tập tin APK tương tự như các gói phần mềm khác như APPX trên Microsoft Windows hay gói Deb trên các hệ điều hành nền Debian như Ubuntu. (Wikipedia)
