@@ -7,6 +7,6 @@ DSearch là một dịch vụ tìm kiếm do nhóm bTeam tạo ra phi lợi nhu�
 - Các tệp ở đây là chính thức
 - Bạn có thể tải và cài
 
-# DSearch nay là bSearch
+# DSearch nay sẽ là bSearch
 
-DSearch nay đã chuyển cho bTeam thành bSearch
+DSearch nay đã chuyển cho bTeam thành bSearch. Các ứng dụng sẽ tự cập nhật lên
