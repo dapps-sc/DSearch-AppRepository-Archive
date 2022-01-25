@@ -1,5 +1,0 @@
-- Gói ứng dụng Android là định dạng tập tin đóng gói sử dụng bởi hệ điều hành Android khi phân phối và cài đặt ứng dụng di động và middleware. Tập tin APK tương tự như các gói phần mềm khác như APPX trên Microsoft Windows hay gói Deb trên các hệ điều hành nền Debian như Ubuntu. (Wikipedia)
-
-- Tên các tệp sẽ có cấu trúc như sau: [tên cấu trúc thiết bị / phần cứng hoặc cả bộ cài cho tất cả các thiết bị thì sẽ thêm tên phiên bản như Stable (ổn định), v.v].[ngày xuất bản bộ cài APK].[tên chữ kí xuất bản bộ cài] (vd. stable.220521.bteam nghĩa là bản ổn định xuất bản vào 22/05/2021 và bởi bTeam, hay x86_64.220521.bteam nghĩa là bản có thể dùng cho 86bit và 64bit (cho thấy đây là bản 86bit) đã được xuất bản vào 22/05/2021 và bởi bTeam
-
-- Các thiết bị Android theo thử nghiệm thì luôn cài được các bản Stable, Beta, Dev hay các bản x86 (vì thiết bị x64 cũng có thể chạy được tệp x86 nên sẽ cho vào danh sách này) nhưng dù sao bạn nên chọn đúng bản để có các trải nghiệm tốt hơn
