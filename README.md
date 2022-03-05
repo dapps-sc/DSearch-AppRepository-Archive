@@ -2,7 +2,7 @@
 ## Archive
 
 - App Bundle and Repo
-- Offcial
+- Official
 - Installable
 
 # DSearch now is bSearch
