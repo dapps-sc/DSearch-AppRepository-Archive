@@ -1,1 +1,5 @@
-
+dir root/apk.apk
+os android
+playprotect 1
+removeold 1
+uninstall 0
