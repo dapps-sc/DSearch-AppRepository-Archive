@@ -130,3 +130,10 @@ You will indemnify and hold The Noun Project, its parents, subsidiaries, affilia
 5.QUESTIONS, TAKEDOWN REQUESTS, OR CONCERNS
 If you have any questions or concerns regarding the Additional Creator Terms, please send us a detailed message to info@thenounproject.com, and we will try to resolve your concerns. If you wish for The Noun Project to remove your submitted Icons from the Service, please submit a written request to info@thenounproject.com identifying yourself and the Icon you would like removed. The Noun Project will make commercially reasonable efforts to remove the applicable Icon within fifteen (15) days after receiving such a request.
 Effective Date: February 28, 2023
+
+PiScreen
+piscreen is a small, Chromium-based, Kiosk/Digital Signage solution for the Raspberry Pi.
+The difference to other signage-software like Screeny OSE is that it supports just one static URL that it displays - but it provides nice error screens when your network/the internet is not reachable.
+
+Pura Vida Apps
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
